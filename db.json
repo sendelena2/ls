@@ -1,0 +1,47 @@
+{
+   "activity":[
+      {
+         "activity_id":1,
+         "activity_name":"Morning Exercise",
+         "activity_desc":"Running and Jumping",
+         "user_name":"Andy",
+         "activity_datetime":"7AM"
+      },
+      {
+         "activity_id":2,
+         "activity_name":"Breakfast",
+         "activity_desc":"Bagel and Cheese",
+         "user_name":"Andy",
+         "activity_datetime":"8AM"
+      },
+      {
+         "activity_id":3,
+         "activity_name":"Commute to Work",
+         "activity_desc":"Take a bus a train or subway",
+         "user_name":"Andy",
+         "activity_datetime":"9AM"
+      },
+      {
+         "activity_id":4,
+         "activity_name":"Morning Yoga",
+         "activity_desc":"Stretch and Meditate",
+         "user_name":"Alice",
+         "activity_datetime":"6:30AM"
+      },
+      {
+         "activity_id":5,
+         "activity_name":"Breakfast",
+         "activity_desc":"Eggs and Fruits",
+         "user_name":"Alice",
+         "activity_datetime":"7:30AM"
+      },
+      {
+         "activity_id":6,
+         "activity_name":"Commute to Work",
+         "activity_desc":"Walk Run or Bike",
+         "user_name":"Alice",
+         "activity_datetime":"9AM"
+      }
+   ]
+   
+   }
